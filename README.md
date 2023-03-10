@@ -9,3 +9,4 @@ One of the unique features of NewsQuare is the use of infinite scrolling module.
 Overall, NewsQuare is a user-friendly web app that provides up-to-date news from different categories, with a smooth scrolling experience. It is suitable for anyone who is interested in staying updated on the latest news in various fields.
 
 Future developments for the app could include adding more features such as search functionality, social media sharing options, and more.
+![image](https://user-images.githubusercontent.com/97256400/224438469-a7a74582-707c-4a3f-9e2d-9b870cfea09f.png)
