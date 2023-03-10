@@ -1,6 +1,6 @@
 # NewsQuare
 
-NewsQuare is a web app that displays the latest news from various sources. This app was developed using ReactJS function-based components, which helped the developer in learning various concepts of ReactJS in detail like Hooks, Routes, etc.
+NewsQuare is a dynamic and modern web app that provides the users with access to the latest news in a convenient way. This app was developed using ReactJS function-based components, which helped me in learning various concepts of ReactJS in detail like Hooks, Routes, etc.
 
 The app uses the News API to fetch data and display it to the user. The news articles are categorized into different categories like business, entertainment, health, science, sports, and technology. These categories are displayed in the navbar for easy navigation and a better user experience.
 
