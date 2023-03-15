@@ -19,7 +19,7 @@ const News = (props)=>{
         return string.charAt(0).toUpperCase() + string.slice(1);
     } ;
 
-    //updateNews Function fetches news articles from the News API using the fetch method. It also updates the state variables with the fetched data.
+    //updateNews Function fetches news articles from the News API using the fetch method. It also updates the state variables with the fetched data..
 
     const updateNews = async ()=> {
         props.setProgress(10);  
