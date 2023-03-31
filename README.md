@@ -1,7 +1,7 @@
 # NewsQuare
 
 
-![image](https://user-images.githubusercontent.com/97256400/224438469-a7a74582-707c-4a3f-9e2d-9b870cfea09f.png)
+
 
 NewsQuare is a dynamic and modern web app that provides the users with access to the latest news in a convenient way. This app was developed using ReactJS function-based components, which helped me in learning various concepts of ReactJS in detail like Hooks, Routes, etc.
 
@@ -13,3 +13,4 @@ Overall, NewsQuare is a user-friendly web app that provides up-to-date news from
 
 Future developments for the app could include adding more features such as search functionality, social media sharing options, and more.
 
+![image](https://user-images.githubusercontent.com/97256400/224438469-a7a74582-707c-4a3f-9e2d-9b870cfea09f.png)
